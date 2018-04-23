@@ -33,4 +33,4 @@ linux 命令乍一看不好记，实际它大多都是该命令含义的英文�
 
 除了这些基础命令的选项参数，如果想学习其它命令及其选项参数的话，可以到 [explainshell.com](https://explainshell.com/) 搜索学习
 比如这样：
-![](./public/images/20180423-1.png)
+![](https://github.com/verajian/verajian.github.io/blob/master/images/20180423-1.png?raw=true)
